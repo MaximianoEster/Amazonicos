@@ -1,0 +1,4915 @@
+fileFormatVersion: 2
+guid: 52950b2f1ba0b0841bb3fff06dbfe2d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8565136252872406847
+    second: cenarioAmazonicos_arvres_0
+  - first:
+      213: 4787958463207306780
+    second: cenarioAmazonicos_arvres_1
+  - first:
+      213: -1923735062731744208
+    second: cenarioAmazonicos_arvres_2
+  - first:
+      213: 7889149536190548227
+    second: cenarioAmazonicos_arvres_3
+  - first:
+      213: -6341564865611861412
+    second: cenarioAmazonicos_arvres_4
+  - first:
+      213: -668709290093400649
+    second: cenarioAmazonicos_arvres_5
+  - first:
+      213: 1031372311456595093
+    second: cenarioAmazonicos_arvres_6
+  - first:
+      213: 6456498891850935854
+    second: cenarioAmazonicos_arvres_7
+  - first:
+      213: -5313096708346034512
+    second: cenarioAmazonicos_arvres_8
+  - first:
+      213: -520851212866014231
+    second: cenarioAmazonicos_arvres_9
+  - first:
+      213: -8626562097731991801
+    second: cenarioAmazonicos_arvres_10
+  - first:
+      213: -6807821061430389728
+    second: cenarioAmazonicos_arvres_11
+  - first:
+      213: -871663578880030039
+    second: cenarioAmazonicos_arvres_12
+  - first:
+      213: -2626236360742313029
+    second: cenarioAmazonicos_arvres_13
+  - first:
+      213: 7142584851399318014
+    second: cenarioAmazonicos_arvres_14
+  - first:
+      213: -1994339341887112661
+    second: cenarioAmazonicos_arvres_15
+  - first:
+      213: 4756015927742899394
+    second: cenarioAmazonicos_arvres_16
+  - first:
+      213: -1199184420444059212
+    second: cenarioAmazonicos_arvres_17
+  - first:
+      213: -4270996681573245447
+    second: cenarioAmazonicos_arvres_18
+  - first:
+      213: -3351710349692297970
+    second: cenarioAmazonicos_arvres_19
+  - first:
+      213: -5457646584402759804
+    second: cenarioAmazonicos_arvres_20
+  - first:
+      213: 6376972784902552112
+    second: cenarioAmazonicos_arvres_21
+  - first:
+      213: 7316961633942452133
+    second: cenarioAmazonicos_arvres_22
+  - first:
+      213: 6104020297637931427
+    second: cenarioAmazonicos_arvres_23
+  - first:
+      213: 8541266919490345016
+    second: cenarioAmazonicos_arvres_24
+  - first:
+      213: -367781083720638398
+    second: cenarioAmazonicos_arvres_25
+  - first:
+      213: -3301905022385811311
+    second: cenarioAmazonicos_arvres_26
+  - first:
+      213: 4177903994278764242
+    second: cenarioAmazonicos_arvres_27
+  - first:
+      213: -6501690178690940763
+    second: cenarioAmazonicos_arvres_28
+  - first:
+      213: -5349006090702731549
+    second: cenarioAmazonicos_arvres_29
+  - first:
+      213: 144324271029140557
+    second: cenarioAmazonicos_arvres_30
+  - first:
+      213: 5047955601878978213
+    second: cenarioAmazonicos_arvres_31
+  - first:
+      213: -4755997048039007782
+    second: cenarioAmazonicos_arvres_32
+  - first:
+      213: 987988808401335734
+    second: cenarioAmazonicos_arvres_33
+  - first:
+      213: -6699838735990472073
+    second: cenarioAmazonicos_arvres_34
+  - first:
+      213: -2433228093341467379
+    second: cenarioAmazonicos_arvres_35
+  - first:
+      213: 5840312630918260214
+    second: cenarioAmazonicos_arvres_36
+  - first:
+      213: -6934666016103714186
+    second: cenarioAmazonicos_arvres_37
+  - first:
+      213: 3281558743264324192
+    second: cenarioAmazonicos_arvres_38
+  - first:
+      213: -2681311725673630794
+    second: cenarioAmazonicos_arvres_39
+  - first:
+      213: 1197073404003869870
+    second: cenarioAmazonicos_arvres_40
+  - first:
+      213: -4460886465797059040
+    second: cenarioAmazonicos_arvres_41
+  - first:
+      213: 411199559440364471
+    second: cenarioAmazonicos_arvres_42
+  - first:
+      213: 1331044237239600022
+    second: cenarioAmazonicos_arvres_43
+  - first:
+      213: -4478025900883029802
+    second: cenarioAmazonicos_arvres_44
+  - first:
+      213: 1137895122429569865
+    second: cenarioAmazonicos_arvres_45
+  - first:
+      213: -7412329227240403784
+    second: cenarioAmazonicos_arvres_46
+  - first:
+      213: 6546672419207934649
+    second: cenarioAmazonicos_arvres_47
+  - first:
+      213: 7067612534830370185
+    second: cenarioAmazonicos_arvres_48
+  - first:
+      213: 5083359450489595505
+    second: cenarioAmazonicos_arvres_49
+  - first:
+      213: -4681832199861549727
+    second: cenarioAmazonicos_arvres_50
+  - first:
+      213: 8966741889374579067
+    second: cenarioAmazonicos_arvres_51
+  - first:
+      213: 6557755729113084366
+    second: cenarioAmazonicos_arvres_52
+  - first:
+      213: 1396170140372955215
+    second: cenarioAmazonicos_arvres_53
+  - first:
+      213: -8184180778366795237
+    second: cenarioAmazonicos_arvres_54
+  - first:
+      213: -6050391223574609722
+    second: cenarioAmazonicos_arvres_55
+  - first:
+      213: -3288459765201597655
+    second: cenarioAmazonicos_arvres_56
+  - first:
+      213: -1091367626441255481
+    second: cenarioAmazonicos_arvres_57
+  - first:
+      213: -4888500300268137454
+    second: cenarioAmazonicos_arvres_58
+  - first:
+      213: 2022054204077483404
+    second: cenarioAmazonicos_arvres_59
+  - first:
+      213: 3792368036412447903
+    second: cenarioAmazonicos_arvres_60
+  - first:
+      213: 4877748023575798031
+    second: cenarioAmazonicos_arvres_61
+  - first:
+      213: -2821113843399021315
+    second: cenarioAmazonicos_arvres_62
+  - first:
+      213: -4153133356177879579
+    second: cenarioAmazonicos_arvres_63
+  - first:
+      213: -6026414171767803906
+    second: cenarioAmazonicos_arvres_64
+  - first:
+      213: -3828245235673518591
+    second: cenarioAmazonicos_arvres_65
+  - first:
+      213: 2561540278395943099
+    second: cenarioAmazonicos_arvres_66
+  - first:
+      213: 7023110367649963358
+    second: cenarioAmazonicos_arvres_67
+  - first:
+      213: -1942268764638911732
+    second: cenarioAmazonicos_arvres_68
+  - first:
+      213: 5041966294487946377
+    second: cenarioAmazonicos_arvres_69
+  - first:
+      213: 2668974278638828882
+    second: cenarioAmazonicos_arvres_70
+  - first:
+      213: -7254675154011332845
+    second: cenarioAmazonicos_arvres_71
+  - first:
+      213: -2256399398641686124
+    second: cenarioAmazonicos_arvres_72
+  - first:
+      213: -8832411694413472056
+    second: cenarioAmazonicos_arvres_73
+  - first:
+      213: 1673484228275772213
+    second: cenarioAmazonicos_arvres_74
+  - first:
+      213: -3756962259432680467
+    second: cenarioAmazonicos_arvres_75
+  - first:
+      213: -3858554260667590766
+    second: cenarioAmazonicos_arvres_76
+  - first:
+      213: -5031112218286297994
+    second: cenarioAmazonicos_arvres_77
+  - first:
+      213: 3395477910480337784
+    second: cenarioAmazonicos_arvres_78
+  - first:
+      213: -3507476940700551743
+    second: cenarioAmazonicos_arvres_79
+  - first:
+      213: -6303134048287283773
+    second: cenarioAmazonicos_arvres_80
+  - first:
+      213: -4713719588475294254
+    second: cenarioAmazonicos_arvres_81
+  - first:
+      213: -8471330307784502587
+    second: cenarioAmazonicos_arvres_82
+  - first:
+      213: 1690896562263857535
+    second: cenarioAmazonicos_arvres_83
+  - first:
+      213: -7947901584689145192
+    second: cenarioAmazonicos_arvres_84
+  - first:
+      213: -1027408406179188517
+    second: cenarioAmazonicos_arvres_85
+  - first:
+      213: -7631310681630017210
+    second: cenarioAmazonicos_arvres_86
+  - first:
+      213: -1072669992906873134
+    second: cenarioAmazonicos_arvres_87
+  - first:
+      213: 2884031073369527927
+    second: cenarioAmazonicos_arvres_88
+  - first:
+      213: 3765050280020796932
+    second: cenarioAmazonicos_arvres_89
+  - first:
+      213: 6564378439142648435
+    second: cenarioAmazonicos_arvres_90
+  - first:
+      213: 4786996548936752734
+    second: cenarioAmazonicos_arvres_91
+  - first:
+      213: -7961767219067889562
+    second: cenarioAmazonicos_arvres_92
+  - first:
+      213: 6166382202182229462
+    second: cenarioAmazonicos_arvres_93
+  - first:
+      213: 4753905331328036043
+    second: cenarioAmazonicos_arvres_94
+  - first:
+      213: 5904508797631571974
+    second: cenarioAmazonicos_arvres_95
+  - first:
+      213: -4029215760497765856
+    second: cenarioAmazonicos_arvres_96
+  - first:
+      213: 280508178275605058
+    second: cenarioAmazonicos_arvres_97
+  - first:
+      213: 4624233975440324867
+    second: cenarioAmazonicos_arvres_98
+  - first:
+      213: 3805594037744325417
+    second: cenarioAmazonicos_arvres_99
+  - first:
+      213: -9064435705314034981
+    second: cenarioAmazonicos_arvres_100
+  - first:
+      213: -2895400041222252102
+    second: cenarioAmazonicos_arvres_101
+  - first:
+      213: 2492867779203790959
+    second: cenarioAmazonicos_arvres_102
+  - first:
+      213: 5585738702947704671
+    second: cenarioAmazonicos_arvres_103
+  - first:
+      213: 4441773327663204660
+    second: cenarioAmazonicos_arvres_104
+  - first:
+      213: 2950298517480916154
+    second: cenarioAmazonicos_arvres_105
+  - first:
+      213: -1448954935016256364
+    second: cenarioAmazonicos_arvres_106
+  - first:
+      213: 3598477061559142808
+    second: cenarioAmazonicos_arvres_107
+  - first:
+      213: -6592136020848870519
+    second: cenarioAmazonicos_arvres_108
+  - first:
+      213: -6629585375185711633
+    second: cenarioAmazonicos_arvres_109
+  - first:
+      213: -8036479939811217725
+    second: cenarioAmazonicos_arvres_110
+  - first:
+      213: 8236977944762088396
+    second: cenarioAmazonicos_arvres_111
+  - first:
+      213: -2589270088171708920
+    second: cenarioAmazonicos_arvres_112
+  - first:
+      213: 4471185569973248770
+    second: cenarioAmazonicos_arvres_113
+  - first:
+      213: -6705550222760688744
+    second: cenarioAmazonicos_arvres_114
+  - first:
+      213: 7938033740769233728
+    second: cenarioAmazonicos_arvres_115
+  - first:
+      213: -6285367402412031871
+    second: cenarioAmazonicos_arvres_116
+  - first:
+      213: -6243002077089577726
+    second: cenarioAmazonicos_arvres_117
+  - first:
+      213: -3609552278387218129
+    second: cenarioAmazonicos_arvres_118
+  - first:
+      213: -396302406846000708
+    second: cenarioAmazonicos_arvres_119
+  - first:
+      213: 6090106883177612539
+    second: cenarioAmazonicos_arvres_120
+  - first:
+      213: 7333873081969184378
+    second: cenarioAmazonicos_arvres_121
+  - first:
+      213: -3980051158297280643
+    second: cenarioAmazonicos_arvres_122
+  - first:
+      213: -2034917772201402706
+    second: cenarioAmazonicos_arvres_123
+  - first:
+      213: -5761054863650076410
+    second: cenarioAmazonicos_arvres_124
+  - first:
+      213: -446806059083596972
+    second: cenarioAmazonicos_arvres_125
+  - first:
+      213: -4162496269290699283
+    second: cenarioAmazonicos_arvres_126
+  - first:
+      213: -2687983722320886505
+    second: cenarioAmazonicos_arvres_127
+  - first:
+      213: -5787464212830500383
+    second: cenarioAmazonicos_arvres_128
+  - first:
+      213: 21985480204007059
+    second: cenarioAmazonicos_arvres_129
+  - first:
+      213: -7162843142923134674
+    second: cenarioAmazonicos_arvres_130
+  - first:
+      213: -5743647512450821827
+    second: cenarioAmazonicos_arvres_131
+  - first:
+      213: 8863358760284919787
+    second: cenarioAmazonicos_arvres_132
+  - first:
+      213: -632497116243407058
+    second: cenarioAmazonicos_arvres_133
+  - first:
+      213: 7474999075580877673
+    second: cenarioAmazonicos_arvres_134
+  - first:
+      213: -8840283279418308991
+    second: cenarioAmazonicos_arvres_135
+  - first:
+      213: -415982820940807651
+    second: cenarioAmazonicos_arvres_136
+  - first:
+      213: -3919150031294809648
+    second: cenarioAmazonicos_arvres_137
+  - first:
+      213: -8012197566480633785
+    second: cenarioAmazonicos_arvres_138
+  - first:
+      213: -4156154700733174079
+    second: cenarioAmazonicos_arvres_139
+  - first:
+      213: 1572377131647332460
+    second: cenarioAmazonicos_arvres_140
+  - first:
+      213: 1260439497256900014
+    second: cenarioAmazonicos_arvres_141
+  - first:
+      213: -21362417954678223
+    second: cenarioAmazonicos_arvres_142
+  - first:
+      213: -9054259848730308319
+    second: cenarioAmazonicos_arvres_143
+  - first:
+      213: 880216260045795420
+    second: cenarioAmazonicos_arvres_144
+  - first:
+      213: 5929113318343724701
+    second: cenarioAmazonicos_arvres_145
+  - first:
+      213: -7341209299948691618
+    second: cenarioAmazonicos_arvres_146
+  - first:
+      213: 3591183124231990592
+    second: cenarioAmazonicos_arvres_147
+  - first:
+      213: -7529150374341077465
+    second: cenarioAmazonicos_arvres_148
+  - first:
+      213: -7942870125650281637
+    second: cenarioAmazonicos_arvres_149
+  - first:
+      213: 1783786918673066670
+    second: cenarioAmazonicos_arvres_150
+  - first:
+      213: -6218883095796531044
+    second: cenarioAmazonicos_arvres_151
+  - first:
+      213: -458768599165935286
+    second: cenarioAmazonicos_arvres_152
+  - first:
+      213: -981104624993022939
+    second: cenarioAmazonicos_arvres_153
+  - first:
+      213: -8438273499226719914
+    second: cenarioAmazonicos_arvres_154
+  - first:
+      213: -4382835398245654185
+    second: cenarioAmazonicos_arvres_155
+  - first:
+      213: -4723905903280325995
+    second: cenarioAmazonicos_arvres_156
+  - first:
+      213: 3979606751716126186
+    second: cenarioAmazonicos_arvres_157
+  - first:
+      213: -8466690507531260129
+    second: cenarioAmazonicos_arvres_158
+  - first:
+      213: 7059956279465952013
+    second: cenarioAmazonicos_arvres_159
+  - first:
+      213: -2002946181286541618
+    second: cenarioAmazonicos_arvres_160
+  - first:
+      213: 1575209978889585684
+    second: cenarioAmazonicos_arvres_161
+  - first:
+      213: 1727564638465932013
+    second: cenarioAmazonicos_arvres_162
+  - first:
+      213: -5899900342138679000
+    second: cenarioAmazonicos_arvres_163
+  - first:
+      213: -6483960354992218055
+    second: cenarioAmazonicos_arvres_164
+  - first:
+      213: -666242398099163680
+    second: cenarioAmazonicos_arvres_165
+  - first:
+      213: -2304474677001657179
+    second: cenarioAmazonicos_arvres_166
+  - first:
+      213: -9072174751631277555
+    second: cenarioAmazonicos_arvres_167
+  - first:
+      213: 5787419386448995784
+    second: cenarioAmazonicos_arvres_168
+  - first:
+      213: 7085408273024338615
+    second: cenarioAmazonicos_arvres_169
+  - first:
+      213: 9027258213256683747
+    second: cenarioAmazonicos_arvres_170
+  - first:
+      213: 2076996139792572294
+    second: cenarioAmazonicos_arvres_171
+  - first:
+      213: -1972739525450562581
+    second: cenarioAmazonicos_arvres_172
+  - first:
+      213: 3559522485374532697
+    second: cenarioAmazonicos_arvres_173
+  - first:
+      213: -7806151302894420286
+    second: cenarioAmazonicos_arvres_174
+  - first:
+      213: -1888820676358802406
+    second: cenarioAmazonicos_arvres_175
+  - first:
+      213: -3543112379118995691
+    second: cenarioAmazonicos_arvres_176
+  - first:
+      213: 4752251570395756133
+    second: cenarioAmazonicos_arvres_177
+  - first:
+      213: -7756366155513221237
+    second: cenarioAmazonicos_arvres_178
+  - first:
+      213: -6366561735272128421
+    second: cenarioAmazonicos_arvres_179
+  - first:
+      213: 1208447600509145007
+    second: cenarioAmazonicos_arvres_180
+  - first:
+      213: 3412317203190781568
+    second: cenarioAmazonicos_arvres_181
+  - first:
+      213: 6691630962905932558
+    second: cenarioAmazonicos_arvres_182
+  - first:
+      213: 7508933477614033585
+    second: cenarioAmazonicos_arvres_183
+  - first:
+      213: 1817263836224383852
+    second: cenarioAmazonicos_arvres_184
+  - first:
+      213: 1104289740349475145
+    second: cenarioAmazonicos_arvres_185
+  - first:
+      213: -3468619999819497660
+    second: cenarioAmazonicos_arvres_186
+  - first:
+      213: -5252142035039329489
+    second: cenarioAmazonicos_arvres_187
+  - first:
+      213: -637819538962193964
+    second: cenarioAmazonicos_arvres_188
+  - first:
+      213: -41397311956995073
+    second: cenarioAmazonicos_arvres_189
+  - first:
+      213: 6985443366098286357
+    second: cenarioAmazonicos_arvres_190
+  - first:
+      213: -3135141822992320342
+    second: cenarioAmazonicos_arvres_191
+  - first:
+      213: 5653446170421349831
+    second: cenarioAmazonicos_arvres_192
+  - first:
+      213: 8259423818275977533
+    second: cenarioAmazonicos_arvres_193
+  - first:
+      213: -2159624105165915086
+    second: cenarioAmazonicos_arvres_194
+  - first:
+      213: -449407453385931445
+    second: cenarioAmazonicos_arvres_195
+  - first:
+      213: -9067407622333994845
+    second: cenarioAmazonicos_arvres_196
+  - first:
+      213: 1004217620667307341
+    second: cenarioAmazonicos_arvres_197
+  - first:
+      213: -147219992932973399
+    second: cenarioAmazonicos_arvres_198
+  - first:
+      213: 6688759585444390032
+    second: cenarioAmazonicos_arvres_199
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db683170e41cc124a86da4021170d15c
+      internalID: -8565136252872406847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0ab6e5f00be6e4eb4b075dbad747e2
+      internalID: 4787958463207306780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40efeb9e8f31ba04e9f8efb084c131ba
+      internalID: -1923735062731744208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5dedfb5bb829840b5d6b0d865b3cd3
+      internalID: 7889149536190548227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998bb95ea2af684799972203f436688
+      internalID: -6341564865611861412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389e006f6af21b04380c04c721efcdef
+      internalID: -668709290093400649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da0c185ca1ab5743bc002a99409812e
+      internalID: 1031372311456595093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b5940be927574ead3b6b84b808366
+      internalID: 6456498891850935854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80c7a7c8f65a374d9bb5063b86f490d
+      internalID: -5313096708346034512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7516c462ef2142e428bcec3d7816a10c
+      internalID: -520851212866014231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fb2d013f04dcd4180addf9d713b16e
+      internalID: -8626562097731991801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff40e1d453e6cfe47b1102f744a8ce98
+      internalID: -6807821061430389728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_12
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98bf3ae7cb8e964885a484e28440fdb
+      internalID: -871663578880030039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e576a5e7a2ecf04fbf992007a5f5d21
+      internalID: -2626236360742313029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a443df13d12844866c1d936765c33
+      internalID: 7142584851399318014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_15
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81584e4993b0dd144a132e419a022386
+      internalID: -1994339341887112661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_16
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195e77192cd39b043989c8b0e2342c03
+      internalID: 4756015927742899394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c97185077b614abd074404025a8bd
+      internalID: -1199184420444059212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_18
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b511a04dd74484ab69c6bf763a8fe0
+      internalID: -4270996681573245447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b44c7af26f0dda48bfffead0af3da69
+      internalID: -3351710349692297970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea451bddd9dc92745a2f0bf04893998e
+      internalID: -5457646584402759804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa558d554030249bbafc60792bd619
+      internalID: 6376972784902552112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645afda3fd5bc3d488fae684a25f7309
+      internalID: 7316961633942452133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6abe95c41d73c49bc68ba1bba6ef25
+      internalID: 6104020297637931427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4cb07eac3099b47b3bf29bff6735e6
+      internalID: 8541266919490345016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b240803d762b4da69401a3ac01ed7
+      internalID: -367781083720638398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e142422d7b4c224a8354d824e634f23
+      internalID: -3301905022385811311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc583e152397c3c4dabe3c13a90d411b
+      internalID: 4177903994278764242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc442e0824ea1d0499438a1073594c67
+      internalID: -6501690178690940763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308984a04b63a3640bf63bd436c1925e
+      internalID: -5349006090702731549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc8ca910c80f34429771f85d9adcb59
+      internalID: 144324271029140557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8ef0e9d140c3e4998dd9b76f7c24c5
+      internalID: 5047955601878978213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a68818868dda0a41b55ca28fdbef8f3
+      internalID: -4755997048039007782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb7e43d6ba7fe4e9aaae7cf4b7f4bf
+      internalID: 987988808401335734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce0c9838a0d094c9df4b26a065810a
+      internalID: -6699838735990472073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d87a3ac21b36947b6f6b6ef02fa976
+      internalID: -2433228093341467379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_36
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e797f563fddbd4e988661beef6be76
+      internalID: 5840312630918260214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7c759b5e51028468701c37e240b0c1
+      internalID: -6934666016103714186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_38
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1595924f4a791b48842b026defb084a
+      internalID: 3281558743264324192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_39
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d626bafc980aa42b4c22efab9c04fe
+      internalID: -2681311725673630794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_40
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3fb4c1e44dc9645895a31ab9f5f1c1
+      internalID: 1197073404003869870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_41
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38d9541894f1994f9f69aecc444c1ed
+      internalID: -4460886465797059040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_42
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea99a9707ddb7d5498e1568ba711cb45
+      internalID: 411199559440364471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_43
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e8a8ec5cab3c4fb1772d050f359df
+      internalID: 1331044237239600022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_44
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d491d54c0ec4ae847b292abff0cca872
+      internalID: -4478025900883029802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_45
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726204b822e85284da46412af7ab2cb4
+      internalID: 1137895122429569865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5a041b874d6124f89fec3d1cce590a
+      internalID: -7412329227240403784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a775c29a460344bbe53726db2de459
+      internalID: 6546672419207934649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba30e48b208bf74790467567e8069b1
+      internalID: 7067612534830370185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb9139cf0eae643977493e619b9140
+      internalID: 5083359450489595505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4b4319107693b41a8a59ecef4ab861
+      internalID: -4681832199861549727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e09b730787d494f9435efd5dee1da8
+      internalID: 8966741889374579067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b883f4b29d40ce24180ceadf2e1f891f
+      internalID: 6557755729113084366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326228fed45794b4db227a0e6bbd5523
+      internalID: 1396170140372955215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a629f09da3a08429200a3dc20c5858
+      internalID: -8184180778366795237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e953c9195ea96bd40add866145a1e957
+      internalID: -6050391223574609722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f8825331f5edd41b662dae08d45cb6
+      internalID: -3288459765201597655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_57
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea758f7e4bb6d0e4485ac03c5a74ab3c
+      internalID: -1091367626441255481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_58
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549f46d321a7564c9c215359582d89b
+      internalID: -4888500300268137454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08141e1d24ee77148ba09b5f7ba7e5c4
+      internalID: 2022054204077483404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_60
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab289bd90e0624185f058f2729da63
+      internalID: 3792368036412447903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_61
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca78e14338a147b47a5c5865d2deb902
+      internalID: 4877748023575798031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_62
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4f300ece8a8e844ae92b98b68c5110
+      internalID: -2821113843399021315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_63
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fe92f79acc674c8d42cd3825809ff
+      internalID: -4153133356177879579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_64
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a067cc7c9188a33448ef3a3f742f68d4
+      internalID: -6026414171767803906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_65
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3421048c2363e498eb77dd0a1fefff
+      internalID: -3828245235673518591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_66
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21be5433c8583ab4da41090c4b358693
+      internalID: 2561540278395943099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_67
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc11b53fe360b468377a24d3c0fc33
+      internalID: 7023110367649963358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_68
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea70fada02026f4aafd4d8e1c243353
+      internalID: -1942268764638911732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_69
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf43726b26ce074d8ecb3776b5aec24
+      internalID: 5041966294487946377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_70
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0668baf39153c84f968db5f4ecbfd0a
+      internalID: 2668974278638828882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_71
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518c3ebb1104a384ba72165c5c888b29
+      internalID: -7254675154011332845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_72
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd20f66fbea95429aad251bc1e0899
+      internalID: -2256399398641686124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_73
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5d937a051fb7946b55760b0e7151d8
+      internalID: -8832411694413472056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaccc659598a6694eacafeb1aa4f5f60
+      internalID: 1673484228275772213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc403540f74c714db12697c105d6cc9
+      internalID: -3756962259432680467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a103a27328ac98545b5ca9ec6ba1d781
+      internalID: -3858554260667590766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa5392a70f50ba48a3678c11fe3a30a
+      internalID: -5031112218286297994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0ffedbc3fc0404e893f3671092a222
+      internalID: 3395477910480337784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795331ed947a5844a7a9c50f0ef39f8
+      internalID: -3507476940700551743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ea9405aed5fd42a583706ee000778
+      internalID: -6303134048287283773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_81
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bf160c3502c56479b347c263c13511
+      internalID: -4713719588475294254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_82
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2748ca99c5c4df246928ea4eb8e5abe9
+      internalID: -8471330307784502587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb584dd475b749c418d3a001130e5345
+      internalID: 1690896562263857535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_84
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e2f784c1c2aa1439a4a6942060dc3b
+      internalID: -7947901584689145192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_85
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aea148889109749ad7ec9f49e81ca4
+      internalID: -1027408406179188517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_86
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5359315db28ffc34390331a8c450a3c5
+      internalID: -7631310681630017210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b043ca47924f04484d5840bf93f46b
+      internalID: -1072669992906873134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_88
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f132b6a4133d6244a1a6b778248b67a
+      internalID: 2884031073369527927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_89
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5e2408aa7dbb478be3221db42f800
+      internalID: 3765050280020796932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_90
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96043c684ea794aa1184b897d1c8c2
+      internalID: 6564378439142648435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_91
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b038c232b09120478b126838f42ed86
+      internalID: 4786996548936752734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_92
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138e1afce38aa4748be3851f2a93be32
+      internalID: -7961767219067889562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_93
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f504a19bd08f0dd4ebb9aeac30c7eeb3
+      internalID: 6166382202182229462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_94
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0274314f068dfa648966cd6983f3b3ed
+      internalID: 4753905331328036043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_95
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b1869e9d0780543aec2a64dea18034
+      internalID: 5904508797631571974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_96
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8db9837af2bc24db3118ce3981ac76
+      internalID: -4029215760497765856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_97
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc589ef3e8569ea4288baa16d8ee8c90
+      internalID: 280508178275605058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_98
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcec600cd603c444c85b8ab865b2622d
+      internalID: 4624233975440324867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_99
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c929d525efdad34d8cf4f13d872ba59
+      internalID: 3805594037744325417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_100
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb44d38d5c1904cba18d50ef2bde53
+      internalID: -9064435705314034981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_101
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bdf76efd8886448879bec6896da589
+      internalID: -2895400041222252102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642c4aeb53dedba40a2dc4c717a9abee
+      internalID: 2492867779203790959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bed24d807bbc04899b86d6f0737645
+      internalID: 5585738702947704671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84c5e6459f186b4eb93229dd08e9446
+      internalID: 4441773327663204660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b570c75c32ad73c409a264626a6e1e5f
+      internalID: 2950298517480916154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_106
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b4f87bd8250d04d8ec72d4031b0d1b
+      internalID: -1448954935016256364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_107
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a7112414b986418d4de63c0f4481d
+      internalID: 3598477061559142808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_108
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1482cc755634223438a16d4b8e0278fa
+      internalID: -6592136020848870519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_109
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaf6c376d16bac48bfbcf52399b14eb
+      internalID: -6629585375185711633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_110
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a90073439562474d91420a4fed5f661
+      internalID: -8036479939811217725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_111
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4eb15370c3a194e9bce58dc45f1d66
+      internalID: 8236977944762088396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_112
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b5f54061b6cfd4f88baf0714c5b5da
+      internalID: -2589270088171708920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_113
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d9e2370e0997f4b9e2da242f60f360
+      internalID: 4471185569973248770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_114
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cadc7c35e4ba04e96cb28e5aeef067
+      internalID: -6705550222760688744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_115
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376703910d514db46b2052fa3c9db696
+      internalID: 7938033740769233728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3719d16769db4524b904a9a962a19f71
+      internalID: -6285367402412031871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054be7145e0972548a892b4cda1280da
+      internalID: -6243002077089577726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087937d62c806c04dbd94ebc4a1c2e30
+      internalID: -3609552278387218129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326eb9528c1d86e40b6a26829948102c
+      internalID: -396302406846000708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_120
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c116d59199274d54aafa6e0dec043103
+      internalID: 6090106883177612539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_121
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4cfd0b7b8fa684f871365aee9f2c46
+      internalID: 7333873081969184378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_122
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d076b0daac550a4ca3bbe564159af3e
+      internalID: -3980051158297280643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_123
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c020c8757c88449b3e9c258f67c36f
+      internalID: -2034917772201402706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_124
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b0fc86f3b1b746bd7633d0c3316d4
+      internalID: -5761054863650076410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8ef7ae425a54c43b84517a4fe05edb
+      internalID: -446806059083596972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_126
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a23cac1db466b45853fd65d88f57c3
+      internalID: -4162496269290699283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619cbf6462e9dd4438431b88b06d8a91
+      internalID: -2687983722320886505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e512d00e3ad944b16e32726a2a49d
+      internalID: -5787464212830500383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_129
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1a21e087e92da4fb32b380394de21f
+      internalID: 21985480204007059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba19f882438694340ad2d6be98d7e671
+      internalID: -7162843142923134674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_131
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6721a4bf9ae65148863953c3cc94e9a
+      internalID: -5743647512450821827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_132
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8060c1de7d49e5a489f8c1b144c8d510
+      internalID: 8863358760284919787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_133
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3cdec089fd7814da629a3a4e017290
+      internalID: -632497116243407058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_134
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8b10d28efc1f0489703177e0794cb8
+      internalID: 7474999075580877673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_135
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989c0334a378ca548bb2052b59b07a7a
+      internalID: -8840283279418308991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_136
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f8b4997718d14e9e9c36565bc5b59
+      internalID: -415982820940807651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_137
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4024418f13264e8a55e32d20d912e
+      internalID: -3919150031294809648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_138
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85616aa72838844ab804d91f2452ed6
+      internalID: -8012197566480633785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_139
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac01d689ee1cbf641aac6025a200721d
+      internalID: -4156154700733174079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_140
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61fef381934a9f498936e81e7467cd9
+      internalID: 1572377131647332460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_141
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab94d557a1d1caa4eb6033a053f3ce69
+      internalID: 1260439497256900014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_142
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2b8d611114c842886044117ff4f29
+      internalID: -21362417954678223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_143
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245d0aa18b6380c48a0afd4a4e365656
+      internalID: -9054259848730308319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_144
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839435c006e92794baee9217eecf964e
+      internalID: 880216260045795420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_145
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6151b29f4fab44aac5e51237c31ed2
+      internalID: 5929113318343724701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_146
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1290363e17b856b4ebfa8c67ab050882
+      internalID: -7341209299948691618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_147
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb42077cd224384bb73e8afe6bd22b5
+      internalID: 3591183124231990592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_148
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b41ad79767a8409efede5d7c877e6
+      internalID: -7529150374341077465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_149
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8fca9029ff024cb40d8d7e018ccb3
+      internalID: -7942870125650281637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_150
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d95b3aeea5b824890eff830acb0797
+      internalID: 1783786918673066670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_151
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38877a4b55d25f641b5c06e66e3613bf
+      internalID: -6218883095796531044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b441dfc934dbe964797e854589a74919
+      internalID: -458768599165935286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_153
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a2b915359a6c6419af572897bdc612
+      internalID: -981104624993022939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_154
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598a5962b2bf80f4f85da1a435130acf
+      internalID: -8438273499226719914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_155
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 935
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4894fd004d86594680b242d88593151
+      internalID: -4382835398245654185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 935
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb7136d4c09c5c41a0cf8ef9ce9ebab
+      internalID: -4723905903280325995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_157
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 935
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec0d0c5a0f0e10469b57fbdf1710f98
+      internalID: 3979606751716126186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_158
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 935
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4a64ce91cb82148a14b396d7a16e5c
+      internalID: -8466690507531260129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_159
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 935
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc198d71722a6204899ec1702e0ef303
+      internalID: 7059956279465952013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_160
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 935
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a947242241114480472328baff456
+      internalID: -2002946181286541618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_161
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 935
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa47ab039e753c42bed6bb7b2927893
+      internalID: 1575209978889585684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_162
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 935
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b234452065cda946b43a4bba9c859ef
+      internalID: 1727564638465932013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 871
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6f5c47783d1ac488d7d3ca7b6f8f95
+      internalID: -5899900342138679000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 871
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a121eadc723d4184f839e8b43c526
+      internalID: -6483960354992218055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 871
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ef73594327da0449ea07d11be3932a
+      internalID: -666242398099163680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 871
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72624039ff964243a8fc8af58faa5af
+      internalID: -2304474677001657179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 871
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec8dfd8a0dd5d449e21981e60cca95
+      internalID: -9072174751631277555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 871
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30bb9d56de4b2a4c8c34f375c4f6ef9
+      internalID: 5787419386448995784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_169
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 871
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f86c6b32a00940a4464ba6efd54c8
+      internalID: 7085408273024338615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_170
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 871
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6456e5f5444c17b47932f89de25f2f60
+      internalID: 9027258213256683747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_171
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 871
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078bbfef78fe4e43809f720818cca23
+      internalID: 2076996139792572294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_172
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 871
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c037a45d5e83c4b931a843bca9cc34
+      internalID: -1972739525450562581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971620a55f19db4287d130d713105d9
+      internalID: 3559522485374532697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f4fa519bb5504e8bceacf2e057acb
+      internalID: -7806151302894420286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_175
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af434fdea6ffa746bfccd9af604fb3a
+      internalID: -1888820676358802406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75768d54fbf3a264fab46a965a328d0d
+      internalID: -3543112379118995691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_177
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c43a684a9904449a758da84486e43c
+      internalID: 4752251570395756133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_178
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56362512addeb6744b757912ffaa0d24
+      internalID: -7756366155513221237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_179
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c8f2c016a57d141a3613a8eca3eeb7
+      internalID: -6366561735272128421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_180
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95228ede2b0d3f4458aeeacd10a87663
+      internalID: 1208447600509145007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_181
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703a0e50fb50f3f41ac0412841378a5e
+      internalID: 3412317203190781568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_182
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31d33cf33637a4faa334d16f8f3ad8
+      internalID: 6691630962905932558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_183
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced7e018b50188d489838f0a9d64f9e4
+      internalID: 7508933477614033585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_184
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67924e0f08ccb9946a517dcd9e139f3a
+      internalID: 1817263836224383852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_185
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 807
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0dac2078e5e924dbc3bf2cbed1050f
+      internalID: 1104289740349475145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9946fe8f298909b4f86b3e74181cd898
+      internalID: -3468619999819497660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4f6810c73b2794495fa7fee338146c
+      internalID: -5252142035039329489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea399ad8033bbd49bb190a4d23d9113
+      internalID: -637819538962193964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_189
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70d3ac4cd64ba745aad9820f81348d8
+      internalID: -41397311956995073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_190
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d543d067510f648b9f2df5f4f8439d
+      internalID: 6985443366098286357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_191
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015f5b0caee6c7a4aaec35ebd87b0010
+      internalID: -3135141822992320342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_192
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27341599c52d74f419ab3511ffa6efe4
+      internalID: 5653446170421349831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_193
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3e715aa24353042aeee6d5eaa0ce33
+      internalID: 8259423818275977533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_194
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b044babd4e3a04284dd4bf89c73da4
+      internalID: -2159624105165915086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_195
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7f900790e9e648ae24d612c436d4e
+      internalID: -449407453385931445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_196
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbae39f5f6023244e913ff3ec413d17f
+      internalID: -9067407622333994845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_197
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b14e3559b0ffd4eb22badc5889b81d
+      internalID: 1004217620667307341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_198
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11802bdeaf3fe204e81b01b0f60331fd
+      internalID: -147219992932973399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cenarioAmazonicos_arvres_199
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 743
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708e529df120f9044b3684fb08db835e
+      internalID: 6688759585444390032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
